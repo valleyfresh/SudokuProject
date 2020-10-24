@@ -1,0 +1,15 @@
+name: sudoku-project
+channels:
+  - defaults
+dependencies:
+    - python
+    - tensorflow
+    - numpy
+    - pandas
+    - matplotlib
+    - pylint
+    - autopep8
+    - notebook
+    - keras
+    - sklearn
+    - opencv
