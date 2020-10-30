@@ -6,10 +6,12 @@ dependencies:
     - tensorflow
     - numpy
     - pandas
+    - seaborn
     - matplotlib
     - pylint
     - autopep8
     - notebook
     - keras
-    - sklearn
     - opencv
+    - pip:
+        - sklearn
